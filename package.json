@@ -1,0 +1,13 @@
+{
+  "name": "next-16-starter-kit",
+  "version": "1.0.0",
+  "description": "My starting point for Next.js 16 and React 19.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Next.js", "React", "Starter Kit"],
+  "author": "Erik Lopez",
+  "license": "MIT",
+  "packageManager": "pnpm@10.20.0"
+}
