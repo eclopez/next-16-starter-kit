@@ -1,0 +1,13 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "Payload CMS admin panel for the Next.js application",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Next.js", "React", "Payload CMS"],
+  "author": "Erik Lopez",
+  "license": "MIT",
+  "packageManager": "pnpm@10.20.0"
+}

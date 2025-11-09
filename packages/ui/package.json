@@ -1,0 +1,13 @@
+{
+  "name": "@kit/ui",
+  "version": "1.0.0",
+  "description": "Next.js 16 Starter Kit's Shared UI Components",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["React", "TailwindCSS", "UI", "Components"],
+  "author": "Erik Lopez",
+  "license": "MIT",
+  "packageManager": "pnpm@10.20.0"
+}

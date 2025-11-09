@@ -1,0 +1,13 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Next.js frontend for the application",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Next.js", "React"],
+  "author": "Erik Lopez",
+  "license": "MIT",
+  "packageManager": "pnpm@10.20.0"
+}
