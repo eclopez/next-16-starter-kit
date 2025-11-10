@@ -9,5 +9,8 @@
   "keywords": ["Next.js", "React", "Starter Kit"],
   "author": "Erik Lopez",
   "license": "MIT",
-  "packageManager": "pnpm@10.20.0"
+  "packageManager": "pnpm@10.20.0",
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^6.0.0"
+  }
 }

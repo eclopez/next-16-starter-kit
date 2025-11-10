@@ -1,0 +1,13 @@
+{
+  "name": "@kit/prettier",
+  "version": "1.0.0",
+  "description": "Next.js 16 Starter Kit's Prettier Configuration",
+  "main": "index.json",
+  "keywords": ["Prettier", "Configuration"],
+  "author": "Erik Lopez",
+  "license": "MIT",
+  "packageManager": "pnpm@10.20.0",
+  "peerDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^6.0.0"
+  }
+}
