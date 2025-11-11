@@ -3,11 +3,31 @@
   "version": "1.0.0",
   "description": "Next.js frontend for the application",
   "private": true,
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": ["Next.js", "React"],
+  "keywords": [
+    "Next.js",
+    "React"
+  ],
   "author": "Erik Lopez",
   "license": "MIT",
-  "packageManager": "pnpm@10.20.0"
+  "packageManager": "pnpm@10.20.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "prettier": "@kit/prettier",
+  "devDependencies": {
+    "@kit/prettier": "workspace:*",
+    "@kit/tsconfig": "workspace:*",
+    "@types/node": "24.10.0",
+    "@types/react": "^19.2.2",
+    "typescript": "5.9.3"
+  },
+  "dependencies": {
+    "next": "^16.0.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
 }
