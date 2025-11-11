@@ -1,0 +1,12 @@
+{
+  "name": "@kit/tsconfig",
+  "version": "1.0.0",
+  "description": "Next.js 16 Starter Kit's TypeScript Configuration",
+  "main": "index.json",
+  "keywords": ["TypeScript", "Configuration", "tsconfig"],
+  "author": "Erik Lopez",
+  "license": "MIT",
+  "packageManager": "pnpm@10.20.0",
+  "private": true,
+  "files": ["base.json", "library.json", "react.json"]
+}
