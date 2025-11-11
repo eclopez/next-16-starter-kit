@@ -1,5 +1,7 @@
 import * as React from 'react'
 
+import '../globals.css'
+
 interface RootLayoutProps extends React.HTMLProps<HTMLHtmlElement> {}
 
 function RootLayout(props: RootLayoutProps) {
