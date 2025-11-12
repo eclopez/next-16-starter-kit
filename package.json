@@ -12,7 +12,8 @@
   "license": "MIT",
   "packageManager": "pnpm@10.20.0",
   "scripts": {
-    "dev": "pnpm -r run dev"
+    "dev": "pnpm -r run dev",
+    "lint": "pnpm -r run lint"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^6.0.0"
